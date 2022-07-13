@@ -1,0 +1,6 @@
+*.jpg
+*.pyc
+*.h5
+*.pth
+*.pt
+test.py
